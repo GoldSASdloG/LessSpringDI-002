@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f4bbae-65b4-4deb-b4ea-24cc6bee2e5f" name="Changes" comment="created new class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CardVneshnya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DickretsCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/VideoCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/LessonResurs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4f4bbae-65b4-4deb-b4ea-24cc6bee2e5f" name="Changes" comment="ыоздали комп с видяхай хард методом ну типо старым" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +98,7 @@
       <workItem from="1715065438412" duration="17000" />
       <workItem from="1715065510708" duration="12000" />
       <workItem from="1715066093215" duration="207000" />
-      <workItem from="1715067944123" duration="1994000" />
+      <workItem from="1715067944123" duration="2174000" />
     </task>
     <task id="LOCAL-00001" summary="created new class">
       <option name="closed" value="true" />
@@ -117,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715066256756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ыоздали комп с видяхай хард методом ну типо старым">
+      <option name="closed" value="true" />
+      <created>1715070169180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715070169180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created new class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new class" />
+    <MESSAGE value="ыоздали комп с видяхай хард методом ну типо старым" />
+    <option name="LAST_COMMIT_MESSAGE" value="ыоздали комп с видяхай хард методом ну типо старым" />
   </component>
 </project>
