@@ -18,7 +18,7 @@ public class CardVneshnya implements VideoCard{
 
     @Override
     public void check() {
-        System.out.println("Raysen Card Super 9080");
+        System.out.println(name + " " + series);
     }
 
     public int getSeries() {
